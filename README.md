@@ -1,2 +1,2 @@
-# Predicting-the-Stock-Price-Trends-using-AI
-supervised learning, unsupervised learning, stock-prediction, alphas
+# Supervised Learning in Short-Term Price Trends Forecasting
+Constructed factors based on technical indicators (like RSI, MACD, ATR, etc.) to predict stock price trends using a set of classification models including MLP, SVM, Random Forest, AdaBoost, etc.; applied Majority Vote to combining selected models, finally achieving an optimal out-of-sample accuracy of 0.5285 on three-class classification
